@@ -6,8 +6,6 @@ public class Entity {
 	private String description;
 	
 	
-	
-	
 	public Entity(String id, String label, String description) {
 	
 		this.id = id;

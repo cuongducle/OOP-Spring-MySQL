@@ -7,5 +7,10 @@ public class Fact {
 	private Relationship relationship;
 	private Entity object;
 	private Date date;
+	public Fact() {
+		super();
+	}
+	
+	
 	
 }
